@@ -28,11 +28,7 @@
 :seedling: Atualmente estudado: Typescript/React<br/>
 :smile: Meus pronomes: ele/dele <br/>
 :house_with_garden: Atualmente morando em São Paulo/SP<br/>
-
 &#xa0;
-
-&#xa0;
-
 <h2 align="center"> Tecnologias </h1>
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"  title="JavaScript">
