@@ -17,10 +17,10 @@
 </div>
 <!-- <img align="left" width="400" height="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> -->
 <div align="center">
-<img align="left" width="400" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+<img align="left"  height="400" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
 </div>
-<h1 align="center">Olá, me chamo Thiago Lins! <img src="./.github/Hi.gif" width="25"></h1>
-
+<h1 align="center">Olá, me chamo Thiago Lins! </h1>
+<!-- <img src="./.github/Hi.gif" width="25"> -->
 :computer: Desenvolvedor Fullstack com Foco em Node<br/>
 :man_student: Estudante de Análise e Desenvolvimento de Sistemas<br/>
 :rocket: Aluno do Ignite da Rocketseat<br>
