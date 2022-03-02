@@ -17,7 +17,7 @@
 </div>
 <!-- <img align="left" width="400" height="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> -->
 <div align="center">
-<img align="left" width="400" height="300" src="./.github/coding.gif"/>
+<img align="left" width="400" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 </div>
 <h1 align="center">Olá, me chamo Thiago Lins! <img src="./.github/Hi.gif" width="25"></h1>
 
