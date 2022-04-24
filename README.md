@@ -1,12 +1,12 @@
 <div align="center">
 
- <a href="https://tgpro.site/github">
+ <a href="https://github.com/thiilins">
  <img src="https://img.shields.io/github/followers/thiilins?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white" alt="" title="GitHub Followers" >
  </a>
- <a href="https://tgpro.site/linkedin">
+ <a href="https://linkedin.com/in/thiilins">
  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" title="Linkedin" >
  </a> 
- <a href="https://tgpro.site/site">
+ <a href="https://thiagolins.dev.br">
  <img src="https://img.shields.io/badge/-Blog-4a0086?style=for-the-badge&logo=wordpress&logoColor=white" alt="Site" title="Site" >
  </a> 
  <a href="mailto:taglins@gmail.com">
