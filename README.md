@@ -25,7 +25,7 @@
 :man_student: Estudante de Análise e Desenvolvimento de Sistemas<br/>
 :rocket: Aluno do Ignite da Rocketseat<br>
 :white_heart: Apaixonado por tecnologia e programação <br/>
-:seedling: Atualmente estudado: Typescript/React<br/>
+:seedling: Atualmente estudando: Ruby <br/>
 :smile: Meus pronomes: ele/dele <br/>
 :house_with_garden: Atualmente morando em São Paulo/SP<br/>
 &#xa0;
