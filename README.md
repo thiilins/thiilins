@@ -31,7 +31,7 @@
 &#xa0;
 <h2 align="center"> Tecnologias </h1>
 <p align="center">
- <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby" alt="Ruby"  title="Ruby">
+<!--  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby" alt="Ruby"  title="Ruby"> -->
  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"  Ruby="JavaScript">
  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js" title="Node.js">
  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML"  title="HTML">
