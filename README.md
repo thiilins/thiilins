@@ -56,10 +56,10 @@
   <img src="https://wakatime.com/badge/user/6bc4add9-0126-4a91-85a5-ade31230e561.svg" alt="Total time coded since Aug 24 2021" /></a>  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thiilins&style=flat-square" alt="thiilins" /> </p><br>
  
    <a href="https://github.com/thiilins">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiilins&hide_border=true&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiilins&hide_border=true&theme=midnight-purple&show_icons=true"/>
+     <img  src="https://github-readme-stats.vercel.app/api?username=thiilins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></br><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiilins&hide_border=false&theme=midnight-purple&show_icons=true"/></br>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiilins&theme=midnight-purple&show_icons=true'/>
      
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiilins&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiilins&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true"> -->
   </a>  
   </div>
    
