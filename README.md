@@ -1,78 +1,61 @@
 <div align="center">
 
- <a href="https://github.com/thiilins">
- <img src="https://img.shields.io/github/followers/thiilins?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white" alt="" title="GitHub Followers" >
- </a>
- <a href="https://linkedin.com/in/thiilins">
- <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" title="Linkedin" >
- </a> 
- <a href="https://thiagolins.dev.br">
- <img src="https://img.shields.io/badge/-Blog-4a0086?style=for-the-badge&logo=wordpress&logoColor=white" alt="Site" title="Site" >
- </a> 
- <a href="mailto:taglins@gmail.com">
- <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" title="Email" >
- </a> 
-<br />
-<br />
+[![GitHub Followers](https://img.shields.io/github/followers/thiilins?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/thiilins)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thiilins)
+[![Blog](https://img.shields.io/badge/-Blog-4a0086?style=for-the-badge&logo=wordpress&logoColor=white)](https://thiagolins.dev.br)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:taglins@gmail.com)
+
 </div>
-<!-- <img align="left" width="400" height="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> -->
+
 <div align="center">
-<img align="left"  height="400" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
+  <img align="left" height="400" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="gif">
 </div>
-<h1 align="center">Olá, me chamo Thiago Lins! </h1>
-<!-- <img src="./.github/Hi.gif" width="25"> -->
-:computer: Desenvolvedor Fullstack com Foco em Node<br/>
-:man_student: Estudante de Análise e Desenvolvimento de Sistemas<br/>
-:rocket: Aluno do Ignite da Rocketseat<br>
-:white_heart: Apaixonado por tecnologia e programação <br/>
-:seedling: Atualmente estudando: Ruby <br/>
-:smile: Meus pronomes: ele/dele <br/>
-:house_with_garden: Atualmente morando em São Paulo/SP<br/>
-&#xa0;
-<h2 align="center"> Tecnologias </h1>
+
+# Olá, me chamo Thiago Lins! :wave:
+
+- :computer: Desenvolvedor Fullstack com Foco em Node
+- :man_student: Estudante de Análise e Desenvolvimento de Sistemas
+- :rocket: Tech Lead
+- :white_heart: Apaixonado por tecnologia e programação
+- :seedling: Atualmente estudando: Python
+- :smile: Meus pronomes: ele/dele
+
+---
+
+## Tecnologias
+
 <p align="center">
-<!--  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby" alt="Ruby"  title="Ruby"> -->
- <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"  Ruby="JavaScript">
- <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js" title="Node.js">
- <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML"  title="HTML">
- <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" title="CSS">
- <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="ReactJS title="ReactJS>
- <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git" title="Git">
- <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
- <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown" alt="Markdown" title="Markdown">
- <img src="https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=adobe-photoshop" alt="Photoshop" title="Photoshop" >
- <img src="https://img.shields.io/badge/illustrator-000000?style=for-the-badge&logo=adobe-illustrator" alt="Illustrator"  title="Illustrator">
- </p>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js">
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="ReactJS">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git">
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL">
+</p>
 
-&#xa0;
+---
 
-&#xa0;
+## Principais Projetos
 
-<h2 align="center"> Meu Perfil em números </h1>
+<div align="center">
+  
 
- <div align="center">
-<a href="https://wakatime.com/@6bc4add9-0126-4a91-85a5-ade31230e561">
-  <img src="https://wakatime.com/badge/user/6bc4add9-0126-4a91-85a5-ade31230e561.svg" alt="Total time coded since Aug 24 2021" /></a>  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thiilins&style=flat-square" alt="thiilins" /> </p><br>
- 
-   <a href="https://github.com/thiilins">
-     <img  src="https://github-readme-stats.vercel.app/api?username=thiilins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></br><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiilins&hide_border=false&theme=midnight-purple&show_icons=true"/></br>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiilins&theme=midnight-purple&show_icons=true'/>
-     
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiilins&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true"> -->
-  </a>  
-  </div>
-   
+
+| | | |
+| :-----------------------------------  | :-----------------------------------   | :------------------------------------  |
+| 💰 [minha-carteira](https://github.com/thiilins/minha-carteira) | 🚀 [boilerplate-server-ejs-express-nodeJS](https://github.com/thiilins/boilerplate-server-ejs-express-nodeJS) | ✅ [todo-app-nodeJS](https://github.com/thiilins/todo-app-nodeJS) |
+| 🍿 [WatchMe](https://github.com/thiilins/WatchMe) | 📊 [minha-carteira-api](https://github.com/thiilins/minha-carteira-api) | ❓ [Perguntas-e-Respostas](https://github.com/thiilins/Perguntas-e-Respostas) |
+| ✅ [todo-reactjs](https://github.com/thiilins/todo-reactjs) | 🔌 [boilerplate-api-express-nodejs](https://github.com/thiilins/boilerplate-api-express-nodejs) | 📸 [fake-instagram](https://github.com/thiilins/fake-instagram) |
+| 🍔 [GORestaurant](https://github.com/thiilins/GORestaurant) | 🏙️ [minha-rua](https://github.com/thiilins/minha-rua) | 💸 [finAPi](https://github.com/thiilins/finAPi) |
+| 👟 [RocketShoes](https://github.com/thiilins/RocketShoes) | ☕ [RocketCoffee](https://github.com/thiilins/RocketCoffee) | ☕ [great-coffee](https://github.com/thiilins/great-coffee) |
+| 💵 [DTMoney](https://github.com/thiilins/DTMoney) | 🚀 [Challenge-Project-Fullstack](https://github.com/thiilins/Challenge-Project-Fullstack) | 🍔 [hackaton-ifood](https://github.com/thiilins/hackaton-ifood) |
+| 🌟 [pokedex-react](https://github.com/thiilins/pokedex-react) | 🥁 [bateriaJS](https://github.com/thiilins/bateriaJS) | 🎮 [cube-game-store](https://github.com/thiilins/cube-game-store) |
+| | | |
+
 </div>
 
-<!-- ## Projetos em destaque
 
-[![Game Cube](https://github-readme-stats.vercel.app/api/pin/?username=thiilins&repo=cube-game-store&theme=midnight-purple)](https://github.com/thiilins/cube-game-store) &#xa0; [![Game Cube](https://github-readme-stats.vercel.app/api/pin/?username=thiilins&repo=netflix-clone-html&theme=midnight-purple)](https://github.com/thiilins/netflix-clone-html)
 
-## Templates
 
-[![Boilerplate NodeJS server with EJS](https://github-readme-stats.vercel.app/api/pin/?username=thiilins&repo=boilerplate-server-ejs-express-nodeJS&theme=midnight-purple)](https://github.com/thiilins/boilerplate-server-ejs-express-nodeJS)
-
-&#xa0; -->
-
- <h4 align="center">Obrigado pela visita o/</h4>
+<h4 align="center">Obrigado pela visita o/</h4>
