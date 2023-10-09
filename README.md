@@ -20,21 +20,7 @@
 - :seedling: Atualmente estudando: Python
 - :smile: Meus pronomes: ele/dele
 
----
 
-
-
-## Tecnologias
-
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js">
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="ReactJS">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git">
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL">
-</p>
 
 ---
 
