@@ -1,6 +1,6 @@
 <div align="center">
 
-🇧🇷 [Português](./README.md) | 🇺🇸 [English](./README_EN.md)
+🇧🇷 [Português](./README.md) | 🇺🇸 [English](./README_EN.md) | 🇪🇸 [Español](./README_ES.md)
 
 [![github Followers](https://img.shields.io/github/followers/thiilins?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/thiilins)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thiilins)
