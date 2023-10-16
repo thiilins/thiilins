@@ -1,34 +1,26 @@
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/thiilins?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/thiilins)
+🇧🇷 [Português](#) | 🇺🇸 [English](/README_EN.md)
+
+[![github Followers](https://img.shields.io/github/followers/thiilins?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/thiilins)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thiilins)
 [![Blog](https://img.shields.io/badge/-Blog-4a0086?style=for-the-badge&logo=wordpress&logoColor=white)](https://thiagolins.dev.br)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:taglins@gmail.com)
 
 </div>
 
-<div align="center">
-  <img align="left" height="400" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="gif">
-</div>
-
-# Olá, me chamo Thiago Lins! :wave:
-
-- :computer: Desenvolvedor Fullstack com Foco em Node
-- :man_student: Estudante de Análise e Desenvolvimento de Sistemas
-- :rocket: Tech Lead
-- :white_heart: Apaixonado por tecnologia e programação
-- :seedling: Atualmente estudando: Python
-- :smile: Meus pronomes: ele/dele
+# Olá, mundo! Sou o Thiago Lins 🚀
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+- 🔍 **Especialidade:** Desenvolvedor Fullstack com experiência em solucionar desafios de negócios através da tecnologia, trabalhando tanto com frontend quanto backend.
+- 🌆 **Trajetória Profissional:** Contribuições significativas para diversas empresas, colaborando diretamente com clientes e liderando equipes de desenvolvimento na entrega de soluções de alto impacto.
+- 🎓 **Acadêmico:** Estudante dedicado de Análise e Desenvolvimento de Sistemas, sempre em busca de atualização e novos conhecimentos.
+- 💡 **Liderança:** Atuando como Tech Lead, com foco em inspirar equipes, mediar soluções e impulsionar inovações em projetos tecnológicos.
+- ❤️ **Passion Points:** Fascínio por tecnologia, empenho em inovação e dedicação em soluções criativas.
+- 🌱 **Aprimorando:** Atualmente aprofundando meus conhecimentos em Python.
+- 🗣 **Pronomes:** Ele/dele
 
-## Tecnologias
+## 🚀 Tecnologias
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
@@ -46,13 +38,11 @@
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL">
 </p>
 
----
 
-## Principais Projetos
+## 🌟 Projetos que Brilham
 
 <div align="center">
   
-
 | | | |
 | :-----------------------------------  | :-----------------------------------   | :------------------------------------  |
 | 💰 [minha-carteira](https://github.com/thiilins/minha-carteira) | 🚀 [boilerplate-server-ejs-express-nodeJS](https://github.com/thiilins/boilerplate-server-ejs-express-nodeJS) | ✅ [todo-app-nodeJS](https://github.com/thiilins/todo-app-nodeJS) |
@@ -66,7 +56,4 @@
 
 </div>
 
-
-
-
-<h4 align="center">Obrigado pela visita o/</h4>
+<h4 align="center">Obrigado por passar por aqui! Vamos conectar e criar juntos! 🌍</h4>
