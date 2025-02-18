@@ -17,7 +17,7 @@
 - 🎓 **Acadêmico:** Estudante dedicado de Análise e Desenvolvimento de Sistemas, sempre em busca de atualização e novos conhecimentos.
 - 💡 **Liderança:** Atuando como Tech Lead, com foco em inspirar equipes, mediar soluções e impulsionar inovações em projetos tecnológicos.
 - ❤️ **Passion Points:** Fascínio por tecnologia, empenho em inovação e dedicação em soluções criativas.
-- 🌱 **Aprimorando:** Atualmente aprofundando meus conhecimentos em Python.
+- 🌱 **Aprimorando:** Atualmente aprofundando meus conhecimentos em Python/PHP.
 - 🗣 **Pronomes:** Ele/dele
 
 ## 🚀 Tecnologias
