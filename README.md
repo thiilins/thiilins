@@ -9,51 +9,75 @@
 
 </div>
 
-# Olá, mundo! Sou o Thiago Lins 🚀
+# Thiago Lins (thiilins) 🚀
 
+<h3 align='center'>Tech Lead | Senior Fullstack Developer | Cloud & Product Mindset</h3>
 
-- 🔍 **Especialidade:** Desenvolvedor Fullstack com experiência em solucionar desafios de negócios através da tecnologia, trabalhando tanto com frontend quanto backend.
-- 🌆 **Trajetória Profissional:** Contribuições significativas para diversas empresas, colaborando diretamente com clientes e liderando equipes de desenvolvimento na entrega de soluções de alto impacto.
-- 🎓 **Acadêmico:** Estudante dedicado de Análise e Desenvolvimento de Sistemas, sempre em busca de atualização e novos conhecimentos.
-- 💡 **Liderança:** Atuando como Tech Lead, com foco em inspirar equipes, mediar soluções e impulsionar inovações em projetos tecnológicos.
-- ❤️ **Passion Points:** Fascínio por tecnologia, empenho em inovação e dedicação em soluções criativas.
-- 🌱 **Aprimorando:** Atualmente aprofundando meus conhecimentos em Python/PHP.
-- 🗣 **Pronomes:** Ele/dele
+Desenvolvedor Fullstack com mais de 6 anos de experiência transformando desafios complexos de negócios em soluções tecnológicas de alto impacto. Minha trajetória é marcada por uma visão multidisciplinar que une o refinamento estético do **Design**, a estratégia do **Marketing** e a robustez da **Arquitetura Cloud**.
 
-## 🚀 Tecnologias
+- 🔍 **Especialidade:** Arquitetura de sistemas escaláveis em ecossistemas JavaScript/TypeScript (React, Node, Angular) e PHP/Laravel.
+- 💡 **Liderança:** Atuação como Tech Lead, mentorando equipes, definindo padrões de design e otimizando fluxos de entrega contínua.
+- 🌆 **Trajetória Profissional:** Contribuições estratégicas em empresas como Logicalis e Pricemet, atuando desde o levantamento de requisitos com clientes críticos até a implementação de arquiteturas cloud em cenários de média complexidade.
+- 🎓 **Acadêmico:** Estudante de Análise e Desenvolvimento de Sistemas (Estácio), focando na consolidação teórica de anos de prática intensiva.
+- 🗣 **Idiomas:** Português (Nativo), Inglês e Espanhol para atuação em ambientes globais.
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter" alt="Flutter">
-<img src="https://img.shields.io/badge/Php-000000?style=for-the-badge&logo=PHP" alt="PHP">
-<img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=Strapi" alt="Strapi">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js">
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML">
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" alt="AWS">
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=googlecloud" alt="GCP">
-<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure" alt="Azure">
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="ReactJS">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git">
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL">
+---
+
+## 🚀 Stack Tecnológica
+
+### 👨🏼‍💻 Linguagens </h1>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
+### ☁️ Cloud & Infra </h1>
 
-## 🌟 Projetos que Brilham
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
+</p>
 
-<div align="center">
-  
-| | | |
-| :-----------------------------------  | :-----------------------------------   | :------------------------------------  |
-| 💰 [minha-carteira](https://github.com/thiilins/minha-carteira) | 🚀 [boilerplate-server-ejs-express-nodeJS](https://github.com/thiilins/boilerplate-server-ejs-express-nodeJS) | ✅ [todo-app-nodeJS](https://github.com/thiilins/todo-app-nodeJS) |
-| 🍿 [WatchMe](https://github.com/thiilins/WatchMe) | 📊 [minha-carteira-api](https://github.com/thiilins/minha-carteira-api) | ❓ [Perguntas-e-Respostas](https://github.com/thiilins/Perguntas-e-Respostas) |
-| ✅ [todo-reactjs](https://github.com/thiilins/todo-reactjs) | 🔌 [boilerplate-api-express-nodejs](https://github.com/thiilins/boilerplate-api-express-nodejs) | 📸 [fake-instagram](https://github.com/thiilins/fake-instagram) |
-| 🍔 [GORestaurant](https://github.com/thiilins/GORestaurant) | 🏙️ [minha-rua](https://github.com/thiilins/minha-rua) | 💸 [finAPi](https://github.com/thiilins/finAPi) |
-| 👟 [RocketShoes](https://github.com/thiilins/RocketShoes) | ☕ [RocketCoffee](https://github.com/thiilins/RocketCoffee) | ☕ [great-coffee](https://github.com/thiilins/great-coffee) |
-| 💵 [DTMoney](https://github.com/thiilins/DTMoney) | 🚀 [Challenge-Project-Fullstack](https://github.com/thiilins/Challenge-Project-Fullstack) | 🍔 [hackaton-ifood](https://github.com/thiilins/hackaton-ifood) |
-| 🌟 [pokedex-react](https://github.com/thiilins/pokedex-react) | 🥁 [bateriaJS](https://github.com/thiilins/bateriaJS) | 🎮 [cube-game-store](https://github.com/thiilins/cube-game-store) |
-| | | |
+### 🎨 Design & Ferramentas </h1>
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+</p>
 
-<h4 align="center">Obrigado por passar por aqui! Vamos conectar e criar juntos! 🌍</h4>
+---
+
+## 🌟 Experiência de Impacto
+
+**Minha bagagem une a robustez técnica à gestão de clientes críticos e resolução de crises, entregando soluções que resolvem dores reais de negócio.**
+
+| Projeto / Empresa    | Foco Principal                                   | Tecnologias Chave          |
+| :------------------- | :----------------------------------------------- | :------------------------- |
+| **ProERP**           | Tech Lead / Autonomia 360º (IA & DevOps)         | Python, PHP, Node, Docker  |
+| **Logicalis Brasil** | Arquitetura Cloud e Entrega de Soluções Críticas | AWS, Azure, GCP            |
+| **Pricemet**         | Liderança de Equipe e Soluções de Pricing        | React, Node, NestJS, PHP   |
+| **KClub**            | Desenvolvimento Fullstack para diversos nichos   | React, TypeScript, Express |
+| **DraftIT**          | Desenvolvimento de Sistemas Corporativos         | Fullstack Core             |
+
+---
+
+## 🛠️ Além do Código
+
+- **Mentoria:** Apaixonado por ensinar (ex-instrutor de informática) e desenvolver novos talentos.
+- **Resiliência:** Uma trajetória forjada na prática desde cedo, com foco em autonomia e ownership.
+- **Street Smart:** Capacidade de ler necessidades de clientes antes mesmo de se tornarem tickets técnicos.
+
+<h4 align="center">Vamos conectar e criar o próximo grande impacto juntos! 🌍</h4>
+
+[![Thiago's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thiilins&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
