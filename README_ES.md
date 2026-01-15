@@ -13,19 +13,19 @@
 
 <h3 align='center'>Tech Lead | Senior Fullstack Developer | Cloud & Product Mindset</h3>
 
-Desarrollador Fullstack con más de 6 años de experiencia transformando desafíos de negocios complejos en soluciones tecnológicas de alto impacto. Mi trayectoria está marcada por una visión multidisciplinaria que une el refinamiento estético del **Diseño**, la estrategia del **Marketing** y la robustez de la **Arquitectura Cloud**.
+Desarrollador Fullstack con más de 6 años de experiencia transformando desafíos complejos de negocios en soluciones tecnológicas de alto impacto. Mi trayectoria está marcada por una visión multidisciplinaria que une el refinamiento estético del **Diseño**, la estrategia del **Marketing** y la robustez de la **Arquitectura Cloud**.
 
 - 🔍 **Especialidad:** Arquitectura de sistemas escalables en ecosistemas JavaScript/TypeScript (React, Node, Angular) y PHP/Laravel.
-- 💡 **Liderazgo:** Actuando como Tech Lead, mentorizando equipos, definiendo patrones de diseño y optimizando flujos de entrega continua (CI/CD).
-- 🌆 **Trayectoria Profesional:** Contribuciones estratégicas en empresas como ProERP, Logicalis e Pricemet, trabajando desde la implementación de IA y Python hasta arquitecturas cloud en escenarios de alta complejidad.
+- 💡 **Liderazgo:** Actuando como Tech Lead, mentorizando equipos, definiendo patrones de diseño y optimizando flujos de entrega continua.
+- 🌆 **Trayectoria Profesional:** Contribuciones estratégicas en empresas como Logicalis y Pricemet, trabajando desde el levantamiento de requisitos con clientes críticos hasta la implementación de arquitecturas cloud.
 - 🎓 **Académico:** Estudiante de Análisis y Desarrollo de Sistemas (Estácio), enfocado en la consolidación teórica de años de práctica intensiva.
-- 🗣 **Idiomas:** Portugués (Nativo), Inglés y Español (Comunicación Técnica).
+- 🗣 **Idiomas:** Portugués (Nativo), Inglés y Español para entornos globales.
 
 ---
 
 ## 🚀 Stack Tecnológica
 
-### 👨🏼‍💻 Lenguajes y Frameworks
+### 👨🏼‍💻 Lenguajes
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -72,11 +72,15 @@ Desarrollador Fullstack con más de 6 años de experiencia transformando desafí
 
 ---
 
-## 🛠️ Además del Código
+## 🛠️ Más allá del Código (Identidad y Mentalidad)
 
-- **Mentoría:** Apasionado por enseñar y desarrollar nuevos talentos, con experiencia previa como instructor de informática.
-- **Resiliencia:** Una trayectoria forjada en la práctica desde temprana edad, con un enfoque absoluto en la autonomía y el ownership.
-- **Street Smart:** Capacidad para leer las necesidades de los clientes y gestionar expectativas antes de que se conviertan en tickets técnicos.
+Mi forma de trabajar es reflejo de quién soy y de lo que creo. Entiendo que la tecnología se trata de personas y procesos:
+
+- **🧩 Razonamiento de Arquitecto (Lego):** Soy un apasionado de la estructuración. En el código, busco la misma precisión y orden que encuentro al montar Legos complejos: cada pieza tiene su lugar para garantizar la estabilidad del todo.
+- **🗺️ Exploración y Autonomía (Games):** Fanático de los juegos de mundo abierto, traigo esta mentalidad al trabajo: enfoque, paciencia para resolver desafíos y autonomía para explorar las mejores soluciones técnicas de forma creativa.
+- **📚 Repertório Plural (Lectura):** Mi pasión por la lectura —desde clásicos brasileños hasta filosofía— me proporciona la empatía necesaria para entender diferentes perfiles de clientes y usuarios, traduciendo necesidades humanas en código.
+- **🤝 Legado Social:** Creo en el poder de la tecnología para transformar vidas. Con años de experiencia en proyectos sociales, me enfoco en la mentoría y en dejar un impacto positivo por donde paso.
+- **⚡ Resiliencia Street Smart:** Trayectoria forjada en la práctica y en la resolución de problemas reales desde temprano, lo que me otorga una visión de dueño (ownership) inquebrantable en cualquier proyecto.
 
 <h4 align="center">¡Conectemos y creemos juntos el próximo gran impacto! 🌍</h4>
 
