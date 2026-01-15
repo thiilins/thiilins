@@ -15,17 +15,17 @@
 
 Fullstack Developer with over 6 years of experience transforming complex business challenges into high-impact technological solutions. My journey is defined by a multidisciplinary vision that blends the aesthetic refinement of **Design**, the strategy of **Marketing**, and the robustness of **Cloud Architecture**.
 
-- 🔍 **Specialty:** Scalable systems architecture in JavaScript/TypeScript ecosystems (React, Node, Angular) and PHP/Laravel.
-- 💡 **Leadership:** Serving as Tech Lead, mentoring teams, defining design patterns, and optimizing continuous delivery (CI/CD) workflows.
-- 🌆 **Professional Journey:** Strategic contributions to companies like ProERP, Logicalis, and Pricemet, ranging from Python and AI implementation to cloud architecture in high-complexity scenarios.
+- 🔍 **Specialty:** Scalable systems architecture in JavaScript/TypeScript (React, Node, Angular) and PHP/Laravel ecosystems.
+- 💡 **Leadership:** Serving as Tech Lead, mentoring teams, defining design patterns, and optimizing continuous delivery workflows.
+- 🌆 **Professional Journey:** Strategic contributions at companies like Logicalis and Pricemet, ranging from critical requirements gathering to cloud architecture implementation in mid-complexity scenarios.
 - 🎓 **Academic:** Systems Analysis and Development student (Estácio), focusing on consolidating years of intensive practice with theoretical foundations.
-- 🗣 **Languages:** Portuguese (Native), English and Spanish (Technical Communication).
+- 🗣 **Languages:** Portuguese (Native), English, and Spanish for global environments.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 👨🏼‍💻 Languages & Frameworks
+### 👨🏼‍💻 Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -51,14 +51,14 @@ Fullstack Developer with over 6 years of experience transforming complex busines
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
 ---
 
-## 🌟 High-Impact Experience
+## 🌟 Impactful Experience
 
 **My background merges technical robustness with critical client management and crisis resolution, delivering solutions that solve real business pains.**
 
@@ -72,11 +72,15 @@ Fullstack Developer with over 6 years of experience transforming complex busines
 
 ---
 
-## 🛠️ Beyond Code
+## 🛠️ Beyond Code (Identity & Mindset)
 
-- **Mentorship:** Passionate about teaching and developing new talents, with previous experience as an IT instructor.
-- **Resilience:** A journey forged in practice from an early age, with an absolute focus on autonomy and ownership.
-- **Street Smart:** Ability to read client needs and manage expectations before they even become technical tickets.
+My way of working reflects who I am and what I believe in. I understand that technology is about people and processes:
+
+- **🧩 Architect's Reasoning (Lego):** I am passionate about structure. In code, I seek the same precision and order I find when building complex Legos: every piece has its place to ensure the stability of the whole.
+- **🗺️ Exploration and Autonomy (Games):** As a fan of open-world games, I bring this mindset to work: focus, patience to solve challenges, and the autonomy to creatively explore the best technical solutions.
+- **📚 Plural Repertory (Reading):** My passion for reading—from Brazilian classics to philosophy—provides me with the empathy needed to understand different client and user profiles, translating human needs into code.
+- **🤝 Social Legacy:** I believe in the power of technology to transform lives. With years of experience in social projects, I focus on mentorship and leaving a positive impact wherever I go.
+- **⚡ Street Smart Resilience:** A trajectory forged in practice and real-world problem-solving from an early age, which gives me an unwavering sense of ownership in any project.
 
 <h4 align="center">Let's connect and create the next big impact together! 🌍</h4>
 
